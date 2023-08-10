@@ -1,7 +1,7 @@
 <!-- dynamic typing effect 打字特效 -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFC83D&center=true&vCenter=true&width=435&lines=Hey%2CI'm+ABing!;Nice+to+see+you%F0%9F%91%8F"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFC83D&center=true&vCenter=true&width=435&lines=Hey%2CI'm+ABing!;%F0%9F%91%8FNice+to+see+you!"
   />
 </p>
 
