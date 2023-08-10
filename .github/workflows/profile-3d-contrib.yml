@@ -25,5 +25,5 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          git commit -m ":rocket: auto deploy"
+          git commit -m "Deploy to GitHub pages"
           git push
