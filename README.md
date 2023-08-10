@@ -12,13 +12,6 @@
   />
 </p>
 
-<!-- GitHub Stats Card 统计卡片 -->
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=AAABingBing&rank_icon=github&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"
-  />
-</p>
-
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=AAABingBing&theme=merko" />
