@@ -3,10 +3,12 @@ name: Profile-Snake-Contrib
 on:
   schedule:
     - cron: '0 0 * * *'
+  # 允许随时手动执行
   workflow_dispatch:
-  push:
-    branches:
-      - main
+  # 每次指定分支推送自动执行
+  # push:
+  #   branches:
+  #     - main
 
 jobs:
   generate:
