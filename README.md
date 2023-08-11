@@ -64,7 +64,7 @@
       srcset="https://cdn.jsdelivr.net/gh/AAABingBing/AAABingBing/profile-3d-contrib/profile-gitblock.svg" />
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://cdn.jsdelivr.net/gh/AAABingBing/AAABingBing/profile-3d-contrib/profile-night-view.svg" />
+      srcset="https://cdn.jsdelivr.net/gh/AAABingBing/AAABingBing/profile-3d-contrib/profile-night-rainbow.svg" />
     <img alt="ABing" src="https://cdn.jsdelivr.net/gh/AAABingBing/AAABingBing/profile-3d-contrib/profile-gitblock.svg" />
   </picture>
 </div>
