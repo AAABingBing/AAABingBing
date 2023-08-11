@@ -1,5 +1,5 @@
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
-name: Profile-Metrics
+name: Profile Metrics
 
 on:
   schedule:
