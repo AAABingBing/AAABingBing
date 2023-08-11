@@ -1,10 +1,10 @@
 <!-- https://github.com/DenverCoder1/readme-typing-svg 打字特效 -->
-<p align="center">
+<div align="center">
   <img
     alt="ABing"
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFC83D&center=true&vCenter=true&width=435&lines=Hey%2CI'm+ABing.;%F0%9F%91%8FNice+to+see+you!"
   />
-</p>
+</div>
 
 <!-- https://github.com/Platane/snk 贪吃蛇 -->
 <p align="center">
