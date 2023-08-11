@@ -48,9 +48,9 @@
 ### 📊 Contributions
 
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph 活动统计图 -->
-<p align="center">
+<div align="center">
   <img alt="ABing" src="https://github-readme-activity-graph.vercel.app/graph?username=AAABingBing&theme=react-dark" />
-</p>
+</div>
 
 <!-- https://github.com/yoshi389111/github-profile-3d-contrib 3D贡献图 -->
 <p align="center">
