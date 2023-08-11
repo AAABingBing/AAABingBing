@@ -21,7 +21,7 @@
 <p align="center">
   <img
     alt="ABing"
-    src="https://cdn.jsdelivr.net/gh/AAABingBing/AAABingBing/profile-metrics/base.svg"
+    src="https://cdn.jsdelivr.net/gh/AAABingBing/AAABingBing/profile-metrics/metrics.svg"
   />
 </p>
 
