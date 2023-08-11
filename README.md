@@ -48,7 +48,7 @@
   <picture>
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-profile-trophy.vercel.app/?username=AAABingBing&row=1&column=4&theme=flat&rank=-?&margin-w=20" />
+      srcset="https://github-profile-trophy.vercel.app/?username=AAABingBing&row=1&column=4&theme=buddhism&rank=-?&margin-w=20" />
     <source
       media="(prefers-color-scheme: dark)"
       srcset="https://github-profile-trophy.vercel.app/?username=AAABingBing&row=1&column=4&theme=juicyfresh&rank=-?&margin-w=20" />
@@ -57,17 +57,6 @@
 </p>
 
 ## 📊 Contributions
-
-<!-- https://github.com/Ashutosh00710/github-readme-activity-graph 活动统计图 -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AAABingBing" />
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=AAABingBing&theme=react-dark" />
-    <img alt="ABing" src="https://github-readme-activity-graph.vercel.app/graph?username=AAABingBing&theme=react-dark" />
-  </picture>
-</div>
 
 <!-- https://github.com/yoshi389111/github-profile-3d-contrib 3D贡献图 -->
 <p align="center">
@@ -81,3 +70,14 @@
     <img alt="ABing" src="https://cdn.jsdelivr.net/gh/AAABingBing/AAABingBing/profile-3d-contrib/profile-gitblock.svg" />
   </picture>
 </p>
+
+<!-- https://github.com/Ashutosh00710/github-readme-activity-graph 活动统计图 -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AAABingBing&theme=vue" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=AAABingBing&theme=react-dark" />
+    <img alt="ABing" src="https://github-readme-activity-graph.vercel.app/graph?username=AAABingBing&theme=vue" />
+  </picture>
+</div>
