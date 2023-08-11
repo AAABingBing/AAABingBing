@@ -2,7 +2,7 @@
 <div align="center">
   <img
     alt="ABing"
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFC83D&center=true&vCenter=true&width=435&lines=%F0%9F%8E%89Hey%2CI'm+ABing.;%F0%9F%91%8FNice+to+see+you!" />
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFC83D&center=true&vCenter=true&width=435&lines=%E2%9C%A8Hey%2CI'm+ABing.;%F0%9F%91%8FNice+to+see+you!" />
 </div>
 
 <!-- https://github.com/Platane/snk 贪吃蛇 -->
@@ -18,7 +18,7 @@
   </picture>
 </p>
 
-# 🙋 Hello
+# 🙋 Hi there
 
 <!-- https://github.com/lowlighter/metrics 信息统计 -->
 <p align="center">
@@ -31,8 +31,6 @@
     alt="ABing"
     src="https://github-readme-stats.vercel.app/api?username=AAABingBing&rank_icon=github&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 </p> -->
-
-## ✨ Stats
 
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats 连续提交代码天数记录 -->
 <p align="center">
