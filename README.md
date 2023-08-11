@@ -45,12 +45,7 @@
   <img alt="ABing" src="https://github-profile-trophy.vercel.app/?username=AAABingBing&row=1&column=4&theme=juicyfresh&rank=-?&margin-w=20" />
 </p>
 
-### 📊 WakaTime
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-### 🎉 Contributions
+### 📊 Contributions
 
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph 活动统计图 -->
 <p align="center">
