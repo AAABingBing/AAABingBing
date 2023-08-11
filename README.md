@@ -48,11 +48,11 @@
   <picture>
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-profile-trophy.vercel.app/?username=AAABingBing&row=1&column=4&theme=buddhism&rank=-?&margin-w=20" />
+      srcset="https://github-profile-trophy.vercel.app/?username=AAABingBing&row=1&column=4&theme=chalk&rank=-?&margin-w=20" />
     <source
       media="(prefers-color-scheme: dark)"
       srcset="https://github-profile-trophy.vercel.app/?username=AAABingBing&row=1&column=4&theme=juicyfresh&rank=-?&margin-w=20" />
-    <img alt="ABing" src="https://github-profile-trophy.vercel.app/?username=AAABingBing&row=1&column=4&theme=flat&rank=-?&margin-w=20" />
+    <img alt="ABing" src="https://github-profile-trophy.vercel.app/?username=AAABingBing&row=1&column=4&theme=chalk&rank=-?&margin-w=20" />
   </picture>
 </p>
 
