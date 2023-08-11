@@ -22,7 +22,7 @@
 
 <!-- https://github.com/lowlighter/metrics 信息统计 -->
 <p align="center">
-  <img alt="ABing" src="https://cdn.jsdelivr.net/gh/AAABingBing/AAABingBing/profile-metrics/metrics.svg" />
+  <img alt="ABing" src="https://cdn.jsdelivr.net/gh/AAABingBing/AAABingBing/profile-metrics/classic.svg" />
 </p>
 
 <!-- https://github.com/anuraghazra/github-readme-stats 统计卡片 -->
