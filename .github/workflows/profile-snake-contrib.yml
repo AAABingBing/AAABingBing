@@ -2,7 +2,8 @@ name: Profile-Snake-Contrib
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    # 00:00 BJS == 16:00 UTC
+    - cron: '0 16 * * *'
   # 允许随时手动执行
   workflow_dispatch:
   # 每次指定分支推送自动执行

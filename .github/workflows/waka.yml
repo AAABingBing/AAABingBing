@@ -1,0 +1,30 @@
+name: Waka Time
+
+on:
+  schedule:
+    # 00:00 BJS == 16:00 UTC
+    - cron: '0 16 * * *'
+  # 允许随时手动执行
+  workflow_dispatch:
+  # 每次指定分支推送自动执行
+  # push:
+  #   branches:
+  #     - main
+
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SHOW_LINES_OF_CODE: 'False'
+          SHOW_PROFILE_VIEWS: 'False'
+          SHOW_LANGUAGE_PER_REPO: 'False'
+          SHOW_LOC_CHART: 'False'
+          SHOW_SHORT_INFO: 'False'
+          SHOW_PROJECTS: 'False'
+          SHOW_TOTAL_CODE_TIME: 'False'
+          SHOW_TITLE: true

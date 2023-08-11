@@ -9,9 +9,9 @@
 <!-- https://github.com/Platane/snk 贪吃蛇 -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="ABing" src="./profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/AAABingBing/AAABingBing/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/AAABingBing/AAABingBing/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="ABing" src="https://cdn.jsdelivr.net/gh/AAABingBing/AAABingBing/profile-snake-contrib/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
@@ -48,5 +48,5 @@
 
 <!-- https://github.com/yoshi389111/github-profile-3d-contrib 3D贡献图 -->
 <p align="center">
-  <img alt="ABing" src="./profile-3d-contrib/profile-night-view.svg" />
+  <img alt="ABing" src="https://cdn.jsdelivr.net/gh/AAABingBing/AAABingBing/profile-3d-contrib/profile-night-view.svg" />
 </p>
