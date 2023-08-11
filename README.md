@@ -21,7 +21,7 @@
 <p align="center">
   <img
     alt="ABing"
-    src="https://metrics.lecoq.io/AAABingBing?template=classic&isocalendar=1&habits=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&config.timezone=Asia%2FShanghai"
+    src="https://cdn.jsdelivr.net/gh/AAABingBing/AAABingBing/profile-metrics/base.svg"
   />
 </p>
 
@@ -33,7 +33,7 @@
   />
 </p> -->
 
-## ✨ Stats
+### ✨ Stats
 
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats 连续提交代码天数记录 -->
 <p align="center">
@@ -45,11 +45,13 @@
   <img alt="ABing" src="https://github-profile-trophy.vercel.app/?username=AAABingBing&row=1&column=4&theme=juicyfresh&rank=-?&margin-w=20" />
 </p>
 
-## 📊 WakaTime
+### 📊 WakaTime
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-## 🎉 Contributions
+### 🎉 Contributions
+
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph 活动统计图 -->
 <p align="center">
   <img alt="ABing" src="https://github-readme-activity-graph.vercel.app/graph?username=AAABingBing&theme=react-dark" />

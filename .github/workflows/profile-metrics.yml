@@ -20,7 +20,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: github-metrics/base.svg
+          filename: profile-metrics/base.svg
           # Your GitHub token
           # The following scopes are required:
           #  - public_access (default scope)
