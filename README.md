@@ -2,7 +2,7 @@
 <div align="center">
   <img
     alt="ABing"
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFC83D&center=true&vCenter=true&width=435&lines=%F0%9F%91%8FHey%2CI'm+ABing.;Nice+to+see+you!"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFC83D&center=true&vCenter=true&width=435&lines=%F0%9F%8E%89Hey%2CI'm+ABing.;%F0%9F%91%8FNice+to+see+you!"
   />
 </div>
 
