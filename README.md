@@ -57,7 +57,7 @@
 ## 📊 Contributions
 
 <!-- https://github.com/yoshi389111/github-profile-3d-contrib 3D贡献图 -->
-<p align="center">
+<div align="center">
   <picture>
     <source
       media="(prefers-color-scheme: light)"
@@ -67,10 +67,10 @@
       srcset="https://cdn.jsdelivr.net/gh/AAABingBing/AAABingBing/profile-3d-contrib/profile-night-view.svg" />
     <img alt="ABing" src="https://cdn.jsdelivr.net/gh/AAABingBing/AAABingBing/profile-3d-contrib/profile-gitblock.svg" />
   </picture>
-</p>
+</div>
 
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph 活动统计图 -->
-<div align="center">
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AAABingBing" />
     <source
@@ -78,4 +78,4 @@
       srcset="https://github-readme-activity-graph.vercel.app/graph?username=AAABingBing&theme=react-dark" />
     <img alt="ABing" src="https://github-readme-activity-graph.vercel.app/graph?username=AAABingBing" />
   </picture>
-</div>
+</p>
