@@ -37,21 +37,15 @@ jobs:
           # Options
           user: AAABingBing
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, metadata
           base_indepth: yes
           config_timezone: Asia/Shanghai
-          plugin_followup: yes
-          plugin_followup_archived: yes
-          plugin_followup_indepth: yes
-          plugin_followup_sections: repositories
           plugin_habits: yes
           plugin_habits_charts: yes
           plugin_habits_charts_type: classic
-          plugin_habits_days: 14
+          plugin_habits_days: 365
           plugin_habits_facts: yes
           plugin_habits_from: 200
-          plugin_habits_languages_limit: 8
-          plugin_habits_languages_threshold: 0%
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_traffic: yes
