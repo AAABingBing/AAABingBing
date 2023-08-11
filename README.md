@@ -2,7 +2,7 @@
 <div align="center">
   <img
     alt="ABing"
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFC83D&center=true&vCenter=true&width=435&lines=%E2%9C%A8Hey%2CI'm+ABing.;%F0%9F%91%8FNice+to+see+you!" />
+    src="https://cdn.jsdelivr.net/gh/AAABingBing/AAABingBing/assets/typing.svg" />
 </div>
 
 <!-- https://github.com/Platane/snk 贪吃蛇 -->
