@@ -43,7 +43,7 @@ jobs:
           plugin_habits: yes
           plugin_habits_charts: yes
           plugin_habits_charts_type: classic
-          plugin_habits_days: 365
+          plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_from: 200
           plugin_habits_languages_limit: 8
@@ -51,8 +51,3 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_traffic: yes
-          plugin_skyline: yes
-          plugin_skyline_compatibility: yes
-          plugin_skyline_frames: 60
-          plugin_skyline_settings: { "url": "https://skyline.github.com/${login}/${year}", "ready": "[...document.querySelectorAll('span')].map(span => span.innerText).includes('Share on Twitter')", "wait": 1, "hide": "button, footer, a" }
-          plugin_skyline_year: current-year
