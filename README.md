@@ -25,6 +25,11 @@
   <img alt="ABing" src="https://cdn.jsdelivr.net/gh/AAABingBing/AAABingBing/profile-metrics/metrics.svg" />
 </p>
 
+<!-- 分割线 -->
+<p align="center">
+  <img width="100%" alt="ABing" src="https://cdn.jsdelivr.net/gh/AAABingBing/AAABingBing/assets/hr.gif" />
+</p>
+
 <!-- https://github.com/anuraghazra/github-readme-stats 统计卡片 -->
 <!-- <p align="center">
   <img
@@ -78,4 +83,14 @@
       srcset="https://github-readme-activity-graph.vercel.app/graph?username=AAABingBing&theme=react-dark" />
     <img alt="ABing" src="https://github-readme-activity-graph.vercel.app/graph?username=AAABingBing" />
   </picture>
+</p>
+
+<!-- 分割线 -->
+<p align="center">
+  <img width="100%" alt="ABing" src="https://cdn.jsdelivr.net/gh/AAABingBing/AAABingBing/assets/hr.gif" />
+</p>
+
+<!-- GitHub -->
+<p align="center">
+  <img width="360%" alt="ABing" src="https://cdn.jsdelivr.net/gh/AAABingBing/AAABingBing/assets/github.gif" />
 </p>
