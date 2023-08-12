@@ -2,8 +2,8 @@ name: Profile 3D Contrib
 
 on:
   schedule:
-    # 00:00 BJS == 16:00 UTC
-    - cron: '0 16 * * *'
+    # 00:00 UTC == 8:00 BJS
+    - cron: '0 0 * * *'
   # 允许随时手动执行
   workflow_dispatch:
   # 每次指定分支推送自动执行

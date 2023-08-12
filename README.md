@@ -2,7 +2,7 @@
 <div align="center">
   <img
     alt="ABing"
-    src="https://cdn.jsdelivr.net/gh/AAABingBing/AAABingBing/assets/typing.svg" />
+    src="https://cdn.jsdelivr.net/gh/AAABingBing/AAABingBing/assets/typing.svg?time=<?php echo date("Ymd",time())?>" />
 </div>
 
 <!-- https://github.com/Platane/snk 贪吃蛇 -->
@@ -61,11 +61,11 @@
   <picture>
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://cdn.jsdelivr.net/gh/AAABingBing/AAABingBing/profile-3d-contrib/profile-gitblock.svg" />
+      srcset="./profile-3d-contrib/profile-gitblock.svg" />
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://cdn.jsdelivr.net/gh/AAABingBing/AAABingBing/profile-3d-contrib/profile-night-rainbow.svg" />
-    <img alt="ABing" src="https://cdn.jsdelivr.net/gh/AAABingBing/AAABingBing/profile-3d-contrib/profile-gitblock.svg" />
+      srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+    <img alt="ABing" src="./profile-3d-contrib/profile-gitblock.svg" />
   </picture>
 </div>
 
