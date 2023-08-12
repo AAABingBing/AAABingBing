@@ -2,7 +2,7 @@
 <div align="center">
   <img
     alt="ABing"
-    src="https://cdn.jsdelivr.net/gh/AAABingBing/AAABingBing/assets/typing.svg?time=<?php echo date("Ymd",time())?>" />
+    src="./assets/typing.svg" />
 </div>
 
 <!-- https://github.com/Platane/snk 贪吃蛇 -->
@@ -10,11 +10,11 @@
   <picture>
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://cdn.jsdelivr.net/gh/AAABingBing/AAABingBing/profile-snake-contrib/github-contribution-grid-snake.svg" />
+      srcset="./profile-snake-contrib/github-contribution-grid-snake.svg" />
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://cdn.jsdelivr.net/gh/AAABingBing/AAABingBing/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <img alt="ABing" src="https://cdn.jsdelivr.net/gh/AAABingBing/AAABingBing/profile-snake-contrib/github-contribution-grid-snake.svg" />
+      srcset="./profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <img alt="ABing" src="./profile-snake-contrib/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
@@ -22,7 +22,7 @@
 
 <!-- https://github.com/lowlighter/metrics 信息统计 -->
 <p align="center">
-  <img alt="ABing" src="https://cdn.jsdelivr.net/gh/AAABingBing/AAABingBing/profile-metrics/classic.svg" />
+  <img alt="ABing" src="./profile-metrics/classic.svg" />
 </p>
 
 <!-- https://github.com/anuraghazra/github-readme-stats 统计卡片 -->
@@ -82,10 +82,10 @@
 
 <!-- 分割线 -->
 <p align="center">
-  <img width="100%" alt="ABing" src="https://cdn.jsdelivr.net/gh/AAABingBing/AAABingBing/assets/hr.gif" />
+  <img width="100%" alt="ABing" src="./assets/hr.gif" />
 </p>
 
 <!-- GitHub -->
 <p align="center">
-  <img width="36%" alt="ABing" src="https://cdn.jsdelivr.net/gh/AAABingBing/AAABingBing/assets/github.gif" />
+  <img width="36%" alt="ABing" src="./assets/github.gif" />
 </p>
