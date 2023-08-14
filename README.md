@@ -57,7 +57,7 @@
 ## 📊 Contributions
 
 <!-- https://github.com/yoshi389111/github-profile-3d-contrib 3D贡献图 -->
-<div align="center" style="margin-top:20px">
+<div align="center">
   <picture>
     <source
       media="(prefers-color-scheme: light)"
