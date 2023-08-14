@@ -21,9 +21,9 @@
 # 🙋 Hi there
 
 <!-- https://github.com/lowlighter/metrics 信息统计 -->
-<p align="center">
+<div align="center">
   <img alt="ABing" src="https://cdn.jsdelivr.net/gh/AAABingBing/AAABingBing/profile-metrics/classic.svg" />
-</p>
+</div>
 
 <!-- https://github.com/anuraghazra/github-readme-stats 统计卡片 -->
 <!-- <p align="center">
@@ -57,7 +57,7 @@
 ## 📊 Contributions
 
 <!-- https://github.com/yoshi389111/github-profile-3d-contrib 3D贡献图 -->
-<div align="center">
+<div align="center" style="margin-top:20px">
   <picture>
     <source
       media="(prefers-color-scheme: light)"
@@ -70,7 +70,7 @@
 </div>
 
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph 活动统计图 -->
-<p align="center">
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AAABingBing" />
     <source
@@ -78,12 +78,12 @@
       srcset="https://github-readme-activity-graph.vercel.app/graph?username=AAABingBing&theme=react-dark" />
     <img alt="ABing" src="https://github-readme-activity-graph.vercel.app/graph?username=AAABingBing" />
   </picture>
-</p>
+</div>
 
 <!-- 分割线 -->
-<p align="center">
+<div align="center">
   <img width="100%" alt="ABing" src="https://cdn.jsdelivr.net/gh/AAABingBing/AAABingBing/assets/hr.gif" />
-</p>
+</div>
 
 <!-- GitHub -->
 <p align="center">
