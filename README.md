@@ -1,14 +1,14 @@
-<div align="center">
-  <img
-    alt="ABing"
-    src="https://cdn.jsdelivr.net/gh/AAABingBing/AAABingBing/assets/hello.gif" />
-</div>
-
 <!-- https://github.com/DenverCoder1/readme-typing-svg 打字特效 -->
 <div align="center">
   <img
     alt="ABing"
     src="https://cdn.jsdelivr.net/gh/AAABingBing/AAABingBing/assets/typing.svg" />
+</div>
+
+<div align="center">
+  <img
+    alt="ABing"
+    src="https://cdn.jsdelivr.net/gh/AAABingBing/AAABingBing/assets/hello.gif" />
 </div>
 
 <!-- https://github.com/Platane/snk 贪吃蛇 -->
