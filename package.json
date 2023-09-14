@@ -1,0 +1,7 @@
+{
+  "name": "aaabingbing",
+  "author": "ABing",
+  "scripts": {
+    "cmt": "node ./scripts/cmt.js"
+  }
+}
