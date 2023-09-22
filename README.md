@@ -11,7 +11,6 @@
     src="https://cdn.jsdelivr.net/gh/AAABingBing/AAABingBing/assets/hello.gif" />
 </div>
 
-
 <!-- https://github.com/Platane/snk 贪吃蛇 -->
 <p align="center">
   <picture>
