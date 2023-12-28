@@ -18,19 +18,14 @@
   </picture>
 </p>
 
-# 🙋 About Me
-
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats 连续提交代码天数记录 -->
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=AAABingBing" />
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=AAABingBing&theme=ads-juicy-fresh" />
     <img alt="ABing" src="https://streak-stats.demolab.com/?user=AAABingBing" />
   </picture>
-</p>
 
 <!-- https://github.com/ryo-ma/github-profile-trophy 资料奖杯 -->
-<p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: light)"
@@ -40,4 +35,3 @@
       srcset="https://github-profile-trophy.vercel.app/?username=AAABingBing&row=1&column=4&theme=juicyfresh&rank=-?&margin-w=20" />
     <img alt="ABing" src="https://github-profile-trophy.vercel.app/?username=AAABingBing&row=1&column=4&theme=flat&rank=-?&margin-w=20" />
   </picture>
-</p>
