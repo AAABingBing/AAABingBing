@@ -29,6 +29,6 @@
       keyTimes="0;0.66666666666667;0.83333333333333;1" />
   </path>
   <text font-family='"Fira Code", monospace' fill="#FFC83D" font-size="20" dominant-baseline="middle" x="50%" text-anchor="middle">
-    <textPath xlink:href="#path0">✨ Stay curious.</textPath>
+    <textPath xlink:href="#path0">✨ Stay curious!</textPath>
   </text>
 </svg>
