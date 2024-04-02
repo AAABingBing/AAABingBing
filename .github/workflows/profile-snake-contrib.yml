@@ -13,8 +13,10 @@ on:
 
 jobs:
   generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
 
     steps:
       - name: generate github-contribution-grid-snake.svg
@@ -30,6 +32,6 @@ jobs:
         with:
           target_branch: main
           build_dir: dist
-          # keep_history: false # 默认为 false
+          keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
