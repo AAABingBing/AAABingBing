@@ -2,10 +2,10 @@
 <svg
   xmlns="http://www.w3.org/2000/svg"
   xmlns:xlink="http://www.w3.org/1999/xlink"
-  viewBox="0 0 520 30"
+  viewBox="0 0 520 50"
   style="background-color: #00000000"
   width="520px"
-  height="30px">
+  height="50px">
   <style>
     @font-face {
       font-family: 'Fira Code';
@@ -28,7 +28,7 @@
       values="m0,25 h0 ; m0,25 h435 ; m0,25 h435 ; m0,25 h0"
       keyTimes="0;0.66666666666667;0.83333333333333;1" />
   </path>
-  <text font-family='"Fira Code", monospace' fill="#FFC83D" font-size="20" dominant-baseline="auto" x="0%" text-anchor="start">
+  <text font-family='"Fira Code", monospace' fill="#FFC83D" font-size="20" dominant-baseline="middle" x="50%" text-anchor="middle">
     <textPath xlink:href="#path0">✨ Welcome</textPath>
   </text>
   <path id="path1">
@@ -42,7 +42,7 @@
       values="m0,25 h0 ; m0,25 h435 ; m0,25 h435 ; m0,25 h0"
       keyTimes="0;0.66666666666667;0.83333333333333;1" />
   </path>
-  <text font-family='"Fira Code", monospace' fill="#FFC83D" font-size="20" dominant-baseline="auto" x="0%" text-anchor="start">
+  <text font-family='"Fira Code", monospace' fill="#FFC83D" font-size="20" dominant-baseline="middle" x="50%" text-anchor="middle">
     <textPath xlink:href="#path1">✨ ようこそ</textPath>
   </text>
   <path id="path2">
@@ -56,7 +56,7 @@
       values="m0,25 h0 ; m0,25 h435 ; m0,25 h435 ; m0,25 h0"
       keyTimes="0;0.66666666666667;0.83333333333333;1" />
   </path>
-  <text font-family='"Fira Code", monospace' fill="#FFC83D" font-size="20" dominant-baseline="auto" x="0%" text-anchor="start">
+  <text font-family='"Fira Code", monospace' fill="#FFC83D" font-size="20" dominant-baseline="middle" x="50%" text-anchor="middle">
     <textPath xlink:href="#path2">✨ 환영합니다</textPath>
   </text>
   <path id="path3">
@@ -70,7 +70,7 @@
       values="m0,25 h0 ; m0,25 h435 ; m0,25 h435 ; m0,25 h0"
       keyTimes="0;0.66666666666667;0.83333333333333;1" />
   </path>
-  <text font-family='"Fira Code", monospace' fill="#FFC83D" font-size="20" dominant-baseline="auto" x="0%" text-anchor="start">
+  <text font-family='"Fira Code", monospace' fill="#FFC83D" font-size="20" dominant-baseline="middle" x="50%" text-anchor="middle">
     <textPath xlink:href="#path3">✨ Bienvenido</textPath>
   </text>
   <path id="path4">
@@ -84,7 +84,7 @@
       values="m0,25 h0 ; m0,25 h435 ; m0,25 h435 ; m0,25 h0"
       keyTimes="0;0.66666666666667;0.83333333333333;1" />
   </path>
-  <text font-family='"Fira Code", monospace' fill="#FFC83D" font-size="20" dominant-baseline="auto" x="0%" text-anchor="start">
+  <text font-family='"Fira Code", monospace' fill="#FFC83D" font-size="20" dominant-baseline="middle" x="50%" text-anchor="middle">
     <textPath xlink:href="#path4">✨ Bem-vindos</textPath>
   </text>
   <path id="path5">
@@ -98,7 +98,7 @@
       values="m0,25 h0 ; m0,25 h435 ; m0,25 h435 ; m0,25 h0"
       keyTimes="0;0.66666666666667;0.83333333333333;1" />
   </path>
-  <text font-family='"Fira Code", monospace' fill="#FFC83D" font-size="20" dominant-baseline="auto" x="0%" text-anchor="start">
+  <text font-family='"Fira Code", monospace' fill="#FFC83D" font-size="20" dominant-baseline="middle" x="50%" text-anchor="middle">
     <textPath xlink:href="#path5">✨ Добро пожаловать</textPath>
   </text>
   <path id="path6">
@@ -112,7 +112,7 @@
       values="m0,25 h0 ; m0,25 h435 ; m0,25 h435 ; m0,25 h0"
       keyTimes="0;0.66666666666667;0.83333333333333;1" />
   </path>
-  <text font-family='"Fira Code", monospace' fill="#FFC83D" font-size="20" dominant-baseline="auto" x="0%" text-anchor="start">
+  <text font-family='"Fira Code", monospace' fill="#FFC83D" font-size="20" dominant-baseline="middle" x="50%" text-anchor="middle">
     <textPath xlink:href="#path6">✨ 欢 迎</textPath>
   </text>
   <path id="path7">
@@ -126,7 +126,7 @@
       values="m0,25 h0 ; m0,25 h435 ; m0,25 h435 ; m0,25 h0"
       keyTimes="0;0.66666666666667;0.83333333333333;1" />
   </path>
-  <text font-family='"Fira Code", monospace' fill="#FFC83D" font-size="20" dominant-baseline="auto" x="0%" text-anchor="start">
+  <text font-family='"Fira Code", monospace' fill="#FFC83D" font-size="20" dominant-baseline="middle" x="50%" text-anchor="middle">
     <textPath xlink:href="#path7">✨ 歡 迎</textPath>
   </text>
 </svg>
