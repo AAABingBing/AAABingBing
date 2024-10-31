@@ -1,7 +1,8 @@
 {
-  "name": "aaabingbing",
-  "author": "ABing",
+  "name": "a81n9",
+  "author": "a81n9",
+  "type": "module",
   "scripts": {
-    "cmt": "node ./scripts/cmt.js"
+    "push": "node ./scripts/push"
   }
 }
